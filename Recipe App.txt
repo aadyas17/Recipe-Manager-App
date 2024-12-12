@@ -1,0 +1,65 @@
+Recipe App
+
+Here are two more recipes you can add to your Recipe App:
+
+---
+
+### Recipe 5: **Vegetable Stir-Fry**
+
+- **Recipe Name**: Vegetable Stir-Fry
+- **Ingredients**:
+  - 1 tablespoon vegetable oil
+  - 1 cup broccoli florets
+  - 1 cup bell peppers, thinly sliced (red, yellow, or green)
+  - 1 carrot, julienned
+  - 1 zucchini, sliced
+  - 1/2 cup snow peas
+  - 2 cloves garlic, minced
+  - 1 tablespoon soy sauce
+  - 1 tablespoon oyster sauce (optional)
+  - 1 teaspoon sesame oil
+  - 1/2 teaspoon ginger, grated
+  - 1 tablespoon sesame seeds (optional)
+  - Salt and pepper, to taste
+
+- **Instructions**:
+  1. Heat vegetable oil in a large pan or wok over medium heat.
+  2. Add the garlic and ginger, stir-fry for 30 seconds until fragrant.
+  3. Add the broccoli, bell peppers, carrot, and zucchini. Stir-fry for 3-4 minutes, until the vegetables are tender but still crisp.
+  4. Add the snow peas, soy sauce, oyster sauce (optional), and sesame oil. Stir to combine.
+  5. Continue stir-frying for another 2-3 minutes.
+  6. Season with salt and pepper to taste.
+  7. Sprinkle sesame seeds over the top (optional) and serve with steamed rice or noodles.
+
+---
+
+### Recipe 6: **Banana Pancakes**
+
+- **Recipe Name**: Banana Pancakes
+- **Ingredients**:
+  - 1 ripe banana, mashed
+  - 1 cup all-purpose flour
+  - 1 tablespoon sugar
+  - 1 teaspoon baking powder
+  - 1/2 teaspoon baking soda
+  - 1/2 teaspoon cinnamon (optional)
+  - 1/4 teaspoon salt
+  - 1 cup milk
+  - 1 large egg
+  - 2 tablespoons melted butter
+  - 1 teaspoon vanilla extract
+  - Butter or oil for cooking
+  - Maple syrup, for serving
+  - Sliced bananas, for topping
+
+- **Instructions**:
+  1. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, cinnamon (optional), and salt.
+  2. In another bowl, mix together the mashed banana, milk, egg, melted butter, and vanilla extract.
+  3. Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix; the batter should be slightly lumpy.
+  4. Heat a griddle or non-stick pan over medium heat and lightly grease with butter or oil.
+  5. Pour 1/4 cup of batter onto the griddle for each pancake. Cook for 2-3 minutes or until bubbles form on the surface, then flip and cook for another 1-2 minutes on the other side.
+  6. Serve the pancakes warm with maple syrup and sliced bananas on top.
+
+---
+
+These additional recipes provide variety, from a savory vegetable stir-fry to a sweet breakfast treat, expanding the types of dishes your Recipe App can showcase. Let me know if you'd like more recipes or further modifications!
